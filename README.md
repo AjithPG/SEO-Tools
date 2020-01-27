@@ -8,6 +8,8 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Woorank : https://www.woorank.com/</li> 
   <li>Site Doctor:http://sitecheck.webmavens.com/</li>
   <li>Site Checker:https://sitechecker.pro/</li>
+  <li>SEO Web Page Analyze:http://www.seowebpageanalyzer.com/</li>
+  <li>Similar Web:https://www.similarweb.com/</li>
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
