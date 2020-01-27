@@ -58,7 +58,8 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>SERProbot:https://www.serprobot.com/serp-check.php</li>  
     <li>SERP Snippet Generator:https://serpsim.com/Z52WDo/</li>
   </ul>
-   
+    <h4>SEO Tricks</h4>
+    <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
   
   <p>Feel free to contribute</p>
   
