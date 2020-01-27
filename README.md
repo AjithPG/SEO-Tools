@@ -28,7 +28,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
    <h4>Keyword Planner</h4>
   <ul>
     <li>Keyword Tool:https://keywordtool.io/</li>
-    <li>https://smallseotools.com/keyword-position/</li>
+    <li>Small SEO Tools:https://smallseotools.com/keyword-position/</li>
   </ul>
    <h4>Robot.txt Generator</h4>
   <ul>
