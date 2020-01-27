@@ -17,3 +17,11 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
     <li>Keyword Tool:https://keywordtool.io/</li>  
   </ul>
+   <h4>Robot.txt Generator</h4>
+  <ul>
+    <li>Robots.txt Generator:http://www.yellowpipe.com/yis/tools/robots.txt/</li>  
+  </ul>
+   <h4>Sitemap Generator</h4>
+  <ul>
+    <li>XML-Sitemaps.com:https://www.xml-sitemaps.com/</li>  
+  </ul>
