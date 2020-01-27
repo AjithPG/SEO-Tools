@@ -9,6 +9,11 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Site Doctor:http://sitecheck.webmavens.com/</li>
   <li>Site Checker:https://sitechecker.pro/</li>
 </ul>
+  <h4>Analytics Tools</h4>
+  <ul>
+    <li>Google Analytics:https://analytics.google.com/</li>  
+  </ul>
+
  <h4>Page Speed Insights</h4>
   <ul>
     <li>Google Page Insights:https://developers.google.com/speed/pagespeed/insights/</li>  
