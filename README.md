@@ -25,6 +25,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
  <h4>Page Speed Insights</h4>
   <ul>
     <li>Google Page Insights:https://developers.google.com/speed/pagespeed/insights/</li>  
+    <li>Solarwinds pingdom:https://tools.pingdom.com/</li>
   </ul>
    <h4>Mobile Friendly Test<h4>
     <ul>
