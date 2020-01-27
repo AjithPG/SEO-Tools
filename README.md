@@ -25,6 +25,10 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
     <li>Google Page Insights:https://developers.google.com/speed/pagespeed/insights/</li>  
   </ul>
+   <h4>Mobile Friendly Test<h4>
+    <ul>
+     <li>Google Mobile Friendly Test:https://search.google.com/test/mobile-friendly</li>
+     </ul>
    <h4>Keyword Planner</h4>
   <ul>
     <li>Keyword Tool:https://keywordtool.io/</li>
