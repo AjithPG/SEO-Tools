@@ -15,7 +15,8 @@ A collection of SEO testing and Performance analysis tools for Web developers
   </ul>
    <h4>Keyword Planner</h4>
   <ul>
-    <li>Keyword Tool:https://keywordtool.io/</li>  
+    <li>Keyword Tool:https://keywordtool.io/</li>
+    <li>https://smallseotools.com/keyword-position/</li>
   </ul>
    <h4>Robot.txt Generator</h4>
   <ul>
@@ -37,5 +38,6 @@ A collection of SEO testing and Performance analysis tools for Web developers
      <h4>SERP Testing Tools</h4>
   <ul>
     <li>SERProbot:https://www.serprobot.com/serp-check.php</li>  
+    <li>SERP Snippet Generator:https://serpsim.com/Z52WDo/</li>
   </ul>
 
