@@ -11,9 +11,10 @@ A collection of SEO testing and Performance analysis tools for Web developers
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
-    <li>Google Analytics:https://analytics.google.com/</li>  
+    <li>Google Analytics:https://analytics.google.com/</li> 
+    <li>Google Search Console:https://search.google.com/</li>
   </ul>
-
+  <h4>
  <h4>Page Speed Insights</h4>
   <ul>
     <li>Google Page Insights:https://developers.google.com/speed/pagespeed/insights/</li>  
@@ -30,6 +31,10 @@ A collection of SEO testing and Performance analysis tools for Web developers
    <h4>Sitemap Generator</h4>
   <ul>
     <li>XML-Sitemaps.com:https://www.xml-sitemaps.com/</li>  
+  </ul>
+    <h4>Backlink Checker</h4>
+  <ul>
+    <li>Backlink Checker:https://ahrefs.com/backlink-checker</li>  
   </ul>
      <h4>Schema Generator</h4>
   <ul>
