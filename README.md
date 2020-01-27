@@ -10,12 +10,15 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Site Checker:https://sitechecker.pro/</li>
   <li>SEO Web Page Analyze:http://www.seowebpageanalyzer.com/</li>
   <li>Similar Web:https://www.similarweb.com/</li>
+  <li>Browseo:http://www.browseo.net/</li>
+  <li>SEO Site Checkup:https://seositecheckup.com/</li>
+  <li>Copyspace:https://www.copyscape.com/</li>
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
     <li>Google Analytics:https://analytics.google.com/</li> 
     <li>Google Search Console:https://search.google.com/</li>
-    <li>Google Trends:https://trends.google.com/trends/?geo=US</li>
+    <li>Google Trends:https://trends.google.com/trends</li>
   </ul>
   <h4>
  <h4>Page Speed Insights</h4>
@@ -47,7 +50,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   </ul>
    <h4>Structured Data Testing</h4>
   <ul>
-    <li>Google Structured Data Testing Tool:https://search.google.com/structured-data/testing-tool/u/0/</li>  
+    <li>Google Structured Data Testing Tool:https://search.google.com/structured-data/</li>  
   </ul>
      <h4>SERP Testing Tools</h4>
   <ul>
