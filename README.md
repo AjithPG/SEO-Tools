@@ -19,6 +19,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Google Analytics:https://analytics.google.com/</li> 
     <li>Google Search Console:https://search.google.com/</li>
     <li>Google Trends:https://trends.google.com/trends</li>
+    <li>seobility:https://www.seobility.net/en/</li>
   </ul>
   <h4>
  <h4>Page Speed Insights</h4>
