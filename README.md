@@ -25,3 +25,13 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
     <li>XML-Sitemaps.com:https://www.xml-sitemaps.com/</li>  
   </ul>
+     <h4>Schema Generator</h4>
+  <ul>
+    <li>MicroData Schema Test:https://schema.org/docs/gs.html</li>  
+    <li>JSON-LD Schema Generator For SEO:https://hallanalysis.com/json-ld-generator/</li>
+  </ul>
+   <h4>Structured Data Testing</h4>
+  <ul>
+    <li>Google Structured Data Testing Tool:https://search.google.com/structured-data/testing-tool/u/0/</li>  
+  </ul>
+
