@@ -62,6 +62,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Yandex Structured Data Validato:https://webmaster.yandex.com/tools/microtest/</li>
     <li>Bing Markup Validator:https://www.bing.com/toolbox/markup-validator</li>
     <li>RDF Translator:https://rdf-translator.appspot.com/</li>
+    <li>Structured Data Linter:http://linter.structured-data.org/</li>
   </ul>
      <h4>SERP Testing Tools</h4>
   <ul>
