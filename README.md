@@ -76,7 +76,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
  
   <h4>SEO Tricks</h4>
   <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
-    
+  <li>How to remove unused css from webpage:https://web.dev/unused-css-rules/</li>
    <br/>
    <p>If you found some great tools :wrench:, please suggest it:star:. Thanks for making this project awesome:heart_eyes:</p>
    <p>Feel free to contribute:heart:</p>
