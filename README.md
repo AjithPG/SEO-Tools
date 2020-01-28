@@ -65,8 +65,12 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>SERP Snippet Generator:https://serpsim.com/Z52WDo/</li>
     <li>RankTank:https://www.ranktank.org/mobile-friendly-serp-testing-tool/</li>
   </ul>
-    <h4>SEO Tricks</h4>
-    <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
+   <h4>Image Compressors</h4>
+  <ul>
+    <li>TinyPNG:https://tinypng.com/</li>  
+  </ul> 
+  <h4>SEO Tricks</h4>
+  <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
     
    <br/>
    <p>If you found some great tools :wrench:, please suggest it:star:. Thanks for making this project awesome:heart_eyes:</p>
