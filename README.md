@@ -27,11 +27,9 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Google Page Insights:https://developers.google.com/speed/pagespeed/insights/</li>  
     <li>Solarwinds pingdom:https://tools.pingdom.com/</li>
     <li>Webpage Test:https://www.webpagetest.org/</li>
-  </ul>
-   <h4>Mobile Friendly Test<h4>
-    <ul>
+    <li>Web.dev:https://web.dev/measure/</li>
      <li>Google Mobile Friendly Test:https://search.google.com/test/mobile-friendly</li>
-     </ul>
+  </ul>
    <h4>Keyword Planner</h4>
   <ul>
     <li>Keyword Tool:https://keywordtool.io/</li>
