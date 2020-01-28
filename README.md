@@ -68,12 +68,13 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
     <li>TinyPNG:https://tinypng.com/</li>  
   </ul> 
-   <h4>CSS and JS Minifier</h4>
+   <h4>Minifier</h4>
   <ul>
-    <li>Minify:https://www.minifier.org/</li>  
+    <li>CSS/JS Minify:https://www.minifier.org/</li>  
+    <li>HTML minify: http://kangax.github.io/html-minifier/</li>
   </ul> 
      
- 
+
   <h4>SEO Tricks</h4>
   <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
   <li>How to remove unused css from webpage:https://web.dev/unused-css-rules/</li>
