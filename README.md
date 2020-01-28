@@ -67,11 +67,13 @@ A collection of SEO testing and Performance analysis tools for Web developers
    <h4>Image Compressors</h4>
   <ul>
     <li>TinyPNG:https://tinypng.com/</li>  
+    <li>Guetzli:https://github.com/google/guetzli</li>
   </ul> 
    <h4>Minifier</h4>
   <ul>
     <li>CSS/JS Minify:https://www.minifier.org/</li>  
     <li>HTML minify: http://kangax.github.io/html-minifier/</li>
+    <li>CSS minifier:https://css.github.io/csso/csso.html</li>
   </ul> 
      
 
