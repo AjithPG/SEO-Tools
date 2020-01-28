@@ -19,11 +19,13 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Google Analytics:https://analytics.google.com/</li> 
     <li>Google Search Console:https://search.google.com/</li>
     <li>Google Trends:https://trends.google.com/trends</li>
+    <li>seobility:https://www.seobility.net/en/</li>
   </ul>
   <h4>
  <h4>Page Speed Insights</h4>
   <ul>
     <li>Google Page Insights:https://developers.google.com/speed/pagespeed/insights/</li>  
+    <li>Solarwinds pingdom:https://tools.pingdom.com/</li>
   </ul>
    <h4>Mobile Friendly Test<h4>
     <ul>
@@ -61,6 +63,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
     <li>SERProbot:https://www.serprobot.com/serp-check.php</li>  
     <li>SERP Snippet Generator:https://serpsim.com/Z52WDo/</li>
+    <li>RankTank:https://www.ranktank.org/mobile-friendly-serp-testing-tool/</li>
   </ul>
     <h4>SEO Tricks</h4>
     <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
