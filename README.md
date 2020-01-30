@@ -44,6 +44,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
    <h4>Sitemap Generator</h4>
   <ul>
     <li>XML-Sitemaps.com:https://www.xml-sitemaps.com/</li>  
+    <li>timestamp generator:https://timestampgenerator.com/tools/xml-sitemap-from-list</li>
   </ul>
     <h4>Backlink Checker</h4>
   <ul>
