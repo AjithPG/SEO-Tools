@@ -58,7 +58,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   </ul>
    <h4>Structured Data Testing</h4>
   <ul>
-    <li>Google Structured Data Testing Tool:https://search.google.com/structured-data/</li>  
+    <li>Google Structured Markup Helper:https://www.google.com/webmasters/markup-helper/</li>  
     <li>SEO Site Checkup:https://seositecheckup.com/tools/structured-data-test</li>
     <li>Yandex Structured Data Validato:https://webmaster.yandex.com/tools/microtest/</li>
     <li>Bing Markup Validator:https://www.bing.com/toolbox/markup-validator</li>
