@@ -77,6 +77,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>TinyPNG:https://tinypng.com/</li>  
     <li>Guetzli:https://github.com/google/guetzli</li>
     <li>Squoosh:https://squoosh.app/<li>
+    <li>Image Compressor:https://compressor.io/</li>
   </ul> 
    <h4>Minifier</h4>
   <ul>
