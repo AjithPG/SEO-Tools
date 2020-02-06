@@ -83,6 +83,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>CSS/JS Minify:https://www.minifier.org/</li>  
     <li>HTML minify: http://kangax.github.io/html-minifier/</li>
     <li>CSS minifier:https://css.github.io/csso/csso.html</li>
+    <li>Unminify:https://unminify.com/</li>
   </ul> 
      
 
