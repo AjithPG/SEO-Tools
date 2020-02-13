@@ -14,6 +14,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>SEO Site Checkup:https://seositecheckup.com/</li>
   <li>Copyspace:https://www.copyscape.com/</li>
   <li>Pingdom Website Speed Test : https://tools.pingdom.com/</li>
+  <li>Dareboost:https://www.dareboost.com/</li>
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
