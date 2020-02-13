@@ -13,6 +13,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Browseo:http://www.browseo.net/</li>
   <li>SEO Site Checkup:https://seositecheckup.com/</li>
   <li>Copyspace:https://www.copyscape.com/</li>
+  <li>Pingdom Website Speed Test : https://tools.pingdom.com/</li>
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
