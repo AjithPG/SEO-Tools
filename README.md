@@ -35,9 +35,12 @@ A collection of SEO testing and Performance analysis tools for Web developers
   </ul>
    <h4>Keyword Planner</h4>
   <ul>
+    <li>Google Trends:https://trends.google.com/</li>
     <li>Keyword Tool:https://keywordtool.io/</li>
     <li>Small SEO Tools:https://smallseotools.com/keyword-position/</li>
     <li>Keyword Hero:https://keyword-hero.com/</li>
+    <li>Soovle:https://soovle.com/</li>
+    <li>WonderSearch:https://wondersear.ch/</li>
   </ul>
    <h4>Robot.txt Generator</h4>
   <ul>
