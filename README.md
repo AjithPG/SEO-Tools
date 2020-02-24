@@ -15,6 +15,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Copyspace:https://www.copyscape.com/</li>
   <li>Pingdom Website Speed Test : https://tools.pingdom.com/</li>
   <li>Dareboost:https://www.dareboost.com/</li>
+  <li>Varvy:https://varvy.com/</li>
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
