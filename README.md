@@ -83,8 +83,12 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>TinyPNG:https://tinypng.com/</li>  
     <li>Guetzli:https://github.com/google/guetzli</li>
     <li>Squoosh:https://squoosh.app/<li>
-    <li>Image Compressor:https://compressor.io/</li>
+    <li>Image Compressor:https://compressor.io</li>
   </ul> 
+   <h4>Gzip Compression Test</h4>
+    <ul>
+      <li>Varvy Tool:https://varvy.com/tools/gzip/</li>
+    </ul>
    <h4>Minifier</h4>
   <ul>
     <li>CSS/JS Minify:https://www.minifier.org/</li>  
