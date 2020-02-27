@@ -17,7 +17,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Dareboost:https://www.dareboost.com/</li>
   <li>Varvy SEO|Pagespeed|Mobile Test:https://varvy.com/</li>
   <li>URL Analyser:https://gtmetrix.com/analyze.html</li>
-  <li>Avoid Render Blocking CSS:https://technumero.com/defer-parsing-of-javascript/</li>
+ 
 </ul>
   <h4>Analytics Tools</h4>
   <ul>
@@ -105,6 +105,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>How to remove unused css from webpage:https://web.dev/unused-css-rules/</li>
   <li>Microdata:https://schema.org/docs/gs.html</li>
   <li>How to avoid browser caching error: https://kinsta.com/blog/leverage-browser-caching/</li>
+  <li>Avoid Render Blocking CSS:https://technumero.com/defer-parsing-of-javascript/</li>
 <li
    <br/>
    <p>If you found some great tools :wrench:, please suggest it:star:. Thanks for making this project awesome:heart_eyes:</p>
