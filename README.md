@@ -98,6 +98,10 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>CSS minifier:https://css.github.io/csso/csso.html</li>
     <li>Unminify:https://unminify.com/</li>
   </ul> 
+  <h4>Brokenlink Checker</h4>
+  <ul>
+    <li>Site Link Checker:https://www.site24x7.com/link-checker.html</li>
+  </ul>
      
 
   <h4>SEO Tricks</h4>
