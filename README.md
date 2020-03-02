@@ -48,6 +48,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
    <h4>Robot.txt Generator</h4>
   <ul>
     <li>Robots.txt Generator:http://www.yellowpipe.com/yis/tools/robots.txt/</li>  
+    <li>Robot.txt Generator:http://tools.seobook.com/robots-txt/generator/</li>
   </ul>
    <h4>Sitemap Generator</h4>
   <ul>
