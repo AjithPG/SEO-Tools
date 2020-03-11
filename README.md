@@ -70,10 +70,6 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Google Structured Markup Helper:https://www.google.com/webmasters/markup-helper/</li>  
     <li>Google Structured Data Testing Tool:https://search.google.com/structured-data/testing-tool</li>
     <li>Technicalseo : https://technicalseo.com/tools/schema-markup-generator/</li>
-    <li>SEO Site Checkup:https://seositecheckup.com/tools/structured-data-test</li>
-    <li>Yandex Structured Data Validato:https://webmaster.yandex.com/tools/microtest/</li>
-    <li>Bing Markup Validator:https://www.bing.com/toolbox/markup-validator</li>
-    <li>RDF Translator:https://rdf-translator.appspot.com/</li>
     <li>Structured Data Linter:http://linter.structured-data.org/</li>
   </ul>
      <h4>SERP Testing Tools</h4>
