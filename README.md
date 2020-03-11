@@ -100,6 +100,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <h4>Brokenlink Checker</h4>
   <ul>
     <li>Site Link Checker:https://www.site24x7.com/link-checker.html</li>
+    <li>Dead Link Checker:https://www.deadlinkchecker.com/</li>
   </ul>
      
 
