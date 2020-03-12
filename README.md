@@ -86,6 +86,10 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Squoosh:https://squoosh.app/<li>
     <li>Image Compressor:https://compressor.io</li>
   </ul> 
+  <h4>Image Resizer</h4>
+  <ul>
+    <li>SImple Image Resizer:http://www.simpleimageresizer.com/<li>
+   </ul>
    <h4>Gzip Compression Test</h4>
     <ul>
       <li>Varvy Tool:https://varvy.com/tools/gzip/</li>
