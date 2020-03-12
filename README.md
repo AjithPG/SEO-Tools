@@ -16,7 +16,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Pingdom Website Speed Test : https://tools.pingdom.com/</li>
   <li>Dareboost:https://www.dareboost.com/</li>
   <li>Varvy SEO|Pagespeed|Mobile Test:https://varvy.com/</li>
-  <li>URL Analyser:https://gtmetrix.com/analyze.html</li>
+  <li>URL Analyser:https://gtmetrix.com</li>
  
 </ul>
   <h4>Analytics Tools</h4>
