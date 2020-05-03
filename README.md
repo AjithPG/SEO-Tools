@@ -35,6 +35,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Web.dev:https://web.dev/measure/</li>
      <li>Google Mobile Friendly Test:https://search.google.com/test/mobile-friendly</li>
      <li>Responsive Checker:http://ami.responsivedesign.is/</li>
+    <li>Responsive Testing tool:https://trulyblogger.com/responsive/</li>
   </ul>
    <h4>Keyword Planner</h4>
   <ul>
