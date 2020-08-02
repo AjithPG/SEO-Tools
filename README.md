@@ -82,7 +82,6 @@ A collection of SEO testing and Performance analysis tools for Web developers
    <h4>Image Compressors</h4>
   <ul>
     <li>TinyPNG:https://tinypng.com/</li>  
-    <li>Guetzli:https://github.com/google/guetzli</li>
     <li>SVG Compressor:https://vecta.io/nano</li>
     <li>Squoosh:https://squoosh.app/<li>
     <li>Image Compressor:https://compressor.io</li>
@@ -117,7 +116,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Avoid Render Blocking CSS:https://technumero.com/defer-parsing-of-javascript/</li>
 <li
    <br/>
-   <p>If you found some great tools :wrench:, please suggest it:star:. Thanks for making this project awesome:heart_eyes:</p>
+   <p>If you found some great tools :wrench:, please add them:star:. Thanks for making this project awesome:heart_eyes:</p>
    <p>Feel free to contribute:heart:</p>
   
 
