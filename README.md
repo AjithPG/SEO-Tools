@@ -19,6 +19,12 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>URL Analyser:https://gtmetrix.com</li>
  
 </ul>
+
+  <h4>Web Tools</h4>
+  <ul>
+  <li>Genearte Meta Tags:https://metatags.io/</li>
+  <li>Webcode Tool:https://webcode.tools/</li>
+  </ul>
   <h4>Analytics Tools</h4>
   <ul>
     <li>Google Analytics:https://analytics.google.com/</li> 
