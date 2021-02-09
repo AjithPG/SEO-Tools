@@ -89,12 +89,12 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
     <li>TinyPNG:https://tinypng.com/</li>  
     <li>SVG Compressor:https://vecta.io/nano</li>
-    <li>Squoosh:https://squoosh.app/<li>
+    <li>Squoosh:https://squoosh.app/</li>
     <li>Image Compressor:https://compressor.io</li>
   </ul> 
   <h4>Image Resizer</h4>
   <ul>
-    <li>SImple Image Resizer:http://www.simpleimageresizer.com/<li>
+    <li>SImple Image Resizer:http://www.simpleimageresizer.com/</li>
    </ul>
    <h4>Gzip Compression Test</h4>
     <ul>
@@ -120,7 +120,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <li>Microdata:https://schema.org/docs/gs.html</li>
   <li>How to avoid browser caching error: https://kinsta.com/blog/leverage-browser-caching/</li>
   <li>Avoid Render Blocking CSS:https://technumero.com/defer-parsing-of-javascript/</li>
-<li
+
    <br/>
    <p>If you found some great tools :wrench:, please add them:star:. Thanks for making this project awesome:heart_eyes:</p>
    <p>Feel free to contribute:heart:</p>
