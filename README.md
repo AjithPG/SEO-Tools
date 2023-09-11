@@ -24,13 +24,15 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <ul>
   <li>Genearte Meta Tags:https://metatags.io/</li>
   <li>Webcode Tool:https://webcode.tools/</li>
+  <li>Web Check:https://web-check.xyz/</li>
+  <li>HTTP Status Code Checker:https://httpstatus.io/</li>
   </ul>
   <h4>Analytics Tools</h4>
   <ul>
     <li>Google Analytics:https://analytics.google.com/</li> 
     <li>Google Search Console:https://search.google.com/</li>
     <li>Google Trends:https://trends.google.com/trends</li>
-    <li>seobility:https://www.seobility.net/en/</li>
+    <li>Seobility:https://www.seobility.net/en/</li>
   </ul>
   <h4>
  <h4>Websites's Performance Testing Tool</h4>
@@ -50,7 +52,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Small SEO Tools:https://smallseotools.com/keyword-position/</li>
     <li>Keyword Hero:https://keyword-hero.com/</li>
     <li>Soovle:https://soovle.com/</li>
-    <li>WonderSearch:https://wondersear.ch/</li>
+    <li>Keyword.com:https://keyword.com/</li>
   </ul>
    <h4>Robot.txt Generator</h4>
   <ul>
@@ -117,6 +119,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
   <h4>SEO Tricks</h4>
   <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
   <li>How to remove unused css from webpage:https://web.dev/unused-css-rules/</li>
+  <li>SEO for developers:https://www.git-tower.com/blog/seo-for-developers/</li>
   <li>Microdata:https://schema.org/docs/gs.html</li>
   <li>How to avoid browser caching error: https://kinsta.com/blog/leverage-browser-caching/</li>
   <li>Avoid Render Blocking CSS:https://technumero.com/defer-parsing-of-javascript/</li>
