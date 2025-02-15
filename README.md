@@ -112,6 +112,12 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>Site Link Checker:https://www.site24x7.com/link-checker.html</li>
     <li>Dead Link Checker:https://www.deadlinkchecker.com/</li>
   </ul>
+
+   <h4>Brokenlink Checker</h4>
+  <ul>
+    <li>Redirect checker:https://www.redirect-checker.org/</li>
+  </ul>
+  
      
 
   <h4>SEO Tricks</h4>
