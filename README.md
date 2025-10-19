@@ -107,19 +107,22 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>CSS minifier:https://css.github.io/csso/csso.html</li>
     <li>Unminify:https://unminify.com/</li>
   </ul> 
+
+  <h4>Broken / Malicious Link Checker</h4>
+  <ul>
+    <li>Malicious and Broken Links Checker :https://linksentry.io/</li>
+  </ul>
+
   <h4>Brokenlink Checker</h4>
   <ul>
     <li>Site Link Checker:https://www.site24x7.com/link-checker.html</li>
     <li>Dead Link Checker:https://www.deadlinkchecker.com/</li>
   </ul>
 
-   <h4>Brokenlink Checker</h4>
+   <h4>Redirect Checker</h4>
   <ul>
     <li>Redirect checker:https://www.redirect-checker.org/</li>
   </ul>
-  
-     
-
   <h4>SEO Tricks</h4>
   <li>How to Hide your Email Address on Web Pages:https://www.labnol.org/internet/hide-email-address-web-pages/28364/</li>
   <li>How to remove unused css from webpage:https://web.dev/unused-css-rules/</li>
