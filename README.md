@@ -91,6 +91,7 @@ A collection of SEO testing and Performance analysis tools for Web developers
     <li>SVG Compressor:https://vecta.io/nano</li>
     <li>Squoosh:https://squoosh.app/</li>
     <li>Image Compressor:https://compressor.io</li>
+    <li>ImgFlow:https://imgflow.taoliapp.com/en/</li>
   </ul> 
   <h4>Image Resizer</h4>
   <ul>
